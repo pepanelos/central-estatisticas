@@ -1,2 +1,0 @@
-# central-estatisticas
-central-estatisticas
